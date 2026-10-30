@@ -1,5 +1,9 @@
 # CIFAR-10 Image Classification — EverQuint AI Engineer Solution
 
+[![Live Interactive Workbench](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0284c7?style=for-the-badge&logo=github)](https://akashbv6680.github.io/EQClassification/)
+
+> **Live Interactive ML Workbench**: [https://akashbv6680.github.io/EQClassification/](https://akashbv6680.github.io/EQClassification/)
+
 An end-to-end, production-grade Deep Learning system implementing custom Convolutional Neural Networks and modern Residual Networks from scratch on CIFAR-10. Includes dual implementations in **PyTorch** and **TensorFlow**, custom training utilities, early stopping, learning rate scheduling, hyperparameter tuning, model evaluation with misclassification analysis, FastAPI deployment, and unit test suites.
 
 ---
